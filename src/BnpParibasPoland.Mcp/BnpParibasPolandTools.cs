@@ -1,4 +1,3 @@
-using System.ComponentModel;
 using ModelContextProtocol.Server;
 
 namespace BnpParibasPoland.Mcp;
